@@ -1,7 +1,7 @@
 # Hi, I'm Shilpa 👋
 
 🌱 Senior Android Developer | Product Thinker | Open Source Contributor  
-📍 Based in Chennai | 🌍 Open to global remote roles  
+📍 Based in Dallas | 🌍 Open to global remote roles  
 🛠️ Specializing in Jetpack Compose, Kotlin, and building performant, scalable mobile apps
 
 I love working on clean, well-structured codebases that support great UX and fast delivery. Solving tough technical problems in practical ways—and helping others do the same—is what keeps me motivated.
@@ -13,7 +13,6 @@ I love working on clean, well-structured codebases that support great UX and fas
 * Adept at collaborating with cross-functional teams to deliver user-centric solutions. 
 * Passionate about leveraging cutting-edge technologies to enhance user engagement and satisfaction.
 * An avid contributor of open source. 
-* Also enjoy [writing](https://medium.com/@anitaa_1990) about what I learn.
 
 
 ## 🛠 Skills
