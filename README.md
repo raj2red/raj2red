@@ -1,4 +1,4 @@
-# Hi, I'm Shilpa 👋
+# Hi, I'm Rajiv 👋
 
 🌱 Senior Android Developer | Product Thinker | Open Source Contributor  
 📍 Based in Dallas | 🌍 Open to global remote roles  
